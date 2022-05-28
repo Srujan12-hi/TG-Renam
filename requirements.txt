@@ -5,8 +5,7 @@ hachoir
 numpy
 Pillow
 
-# to run bot
-pyrogram
+pyrogram==1.4.16
 tgcrypto
 
 # for database 😕
